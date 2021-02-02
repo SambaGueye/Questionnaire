@@ -1,0 +1,21 @@
+.container {
+	background-color: #FAEBD7;
+	width: 25em;
+	margin-top: 5em;
+}
+
+#butt {
+	background-color: #8A2BE2;
+	width: 100%;
+	color: white;
+	text-transform: uppercase;
+	border-radius: 5em;
+}
+
+#ques {
+	padding-left: 2em;
+}
+
+#question {
+	color: blue;
+}
